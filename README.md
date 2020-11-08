@@ -7,8 +7,9 @@ Text classification is a well-known machine learning problem. In this project, a
 
 ## Code.zip
 The code.zip contains 5 files:
-* 1 Colab notebook files - Miniproject2.ipynb
-  * Miniproject1.ipynb contains all utility functions for our own Naive Bayes classifier, and all experiments to improve model performance. One other sklearn classifier, SVM is utilized here to compare with our own classifier.
+* 2 Colab notebook files - Miniproject2.ipynb; Miniproject2_supplemental.ipynb
+  * Miniproject2.ipynb contains all utility functions for our own Naive Bayes classifier, and grid search on some parameters to improve model performance. One other sklearn classifier, SVM is utilized here to compare with our own classifier.
+  * Miniproject2_supplemental.ipynb contains preliminary experiments on the conparison of various parameters and preprocessing methods that affect performance of Naive Bayes classifier.
 * 3 Dataset files - train.csv, test.csv, and Submit.csv
   * Submit.csv is the prediction of our own Naive Bayes function with an accuracy of 93.1% according to Kaggle.
 * 1 ReadMe file - ReadMe.md
